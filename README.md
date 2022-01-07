@@ -156,9 +156,14 @@ Free one-time installation and setup (Web and Android TWA)
 Free ticket support - for life
 
 
-Demo: Web, Android
-
+Demo web:
 https://vice.social
-https://pvspike.gumroad.com/l/ViceSocial
+
+Demo Android:
 https://play.google.com/store/apps/details?id=social.vice.twa
+
+Buy: 
+https://pvspike.gumroad.com/l/ViceSocial
+
+Support:
 https://support.endgame.ro/tickets
